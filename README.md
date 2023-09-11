@@ -14,9 +14,9 @@ This project uses a CSV data file downloaded online filled with information from
 
 - <b>Jupyter Notebook</b> 
 
-<!--
-
 <h2>Program walk-through:</h2>
+
+<!--
 
 <p align="center">
 Launch the utility: <br/>
