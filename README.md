@@ -21,9 +21,6 @@ This project uses a CSV data file downloaded online filled with information from
 
 To get a complete walk throuhg of the project download the pdf that has been added to this repository
 
-Or 
-
-Find it [here](https://docs.google.com/viewer?url=https://github.com/hayden-sutter/Pandas-Data-Visulization/blob/main/Research%20Project.pdf)
 <!--
 
 <p align="center">
