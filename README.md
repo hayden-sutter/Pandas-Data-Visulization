@@ -23,7 +23,7 @@ To get a complete walk throuhg of the project download the pdf that has been add
 
 Or 
 
-Find it here
+Find it [here](https://docs.google.com/viewer?url=https://github.com/hayden-sutter/Pandas-Data-Visulization/blob/main/Research%20Project.pdf)
 <!--
 
 <p align="center">
