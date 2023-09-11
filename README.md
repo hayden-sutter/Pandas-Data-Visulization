@@ -8,7 +8,10 @@ This project uses a CSV data file downloaded online filled with information from
 <h2>Languages and Packages Used</h2>
 
 - <b>Python</b> 
-- <b>Pandas</b>
+- <b>pandas</b>
+- <b>matplotlib.pyplot</b>
+- <b>seaborn</b>
+- <b>statsmodels.api</b>
 
 <h2>Environments Used </h2>
 
