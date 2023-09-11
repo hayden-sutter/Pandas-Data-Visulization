@@ -19,8 +19,11 @@ This project uses a CSV data file downloaded online filled with information from
 
 <h2>Program walk-through:</h2>
 
-To get a complete walk throuhg of the project download the pdf that has been added to this repository.
+To get a complete walk throuhg of the project download the pdf that has been added to this repository
 
+Or 
+
+Find it here
 <!--
 
 <p align="center">
